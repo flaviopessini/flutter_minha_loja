@@ -1,0 +1,187 @@
+{
+  "orders" : {
+    "aoFR0mRrUNZk8VgAye8CmtI5KR92" : {
+      "-MoUosgJ46Xw8GZ8Aoa7" : {
+        "date" : "2021-11-14T16:01:37.500121",
+        "products" : [ {
+          "id" : "0.09316016732397792",
+          "name" : "Whisky Jack Daniels Honey 1L",
+          "price" : 159.0,
+          "productId" : "-MoPjqYQ85Uo1Z7dGL8X",
+          "quantity" : 1
+        }, {
+          "id" : "0.9044433411162806",
+          "name" : "Whisky Jack Daniels 1L",
+          "price" : 159.9,
+          "productId" : "-MoPhas8nkwHqAxhyNmQ",
+          "quantity" : 1
+        } ],
+        "total" : 318.9
+      },
+      "-MoUouaNkcwGqj3ycJa3" : {
+        "date" : "2021-11-14T16:01:45.382601",
+        "products" : [ {
+          "id" : "0.2392420900146387",
+          "name" : "Whisky Buchanan's Deluxe aged 12 anos 1L",
+          "price" : 134.9,
+          "productId" : "-MoPkblmCtonvXGknW7n",
+          "quantity" : 1
+        }, {
+          "id" : "0.9085173267458272",
+          "name" : "Whisky Jack Daniels Single Barrel 750ML",
+          "price" : 299.0,
+          "productId" : "-MoPk9B5DSKQhD3J6qQW",
+          "quantity" : 1
+        }, {
+          "id" : "0.9169154878321999",
+          "name" : "Whisky Old Parr 12 anos 1L",
+          "price" : 164.22,
+          "productId" : "-MoPjZmcnY926z7NSqb2",
+          "quantity" : 1
+        }, {
+          "id" : "0.7024600314186898",
+          "name" : "Whisky Jack Daniels 1L",
+          "price" : 159.9,
+          "productId" : "-MoPhas8nkwHqAxhyNmQ",
+          "quantity" : 1
+        }, {
+          "id" : "0.4835567012071693",
+          "name" : "Whisky Jack Daniels Honey 1L",
+          "price" : 159.0,
+          "productId" : "-MoPjqYQ85Uo1Z7dGL8X",
+          "quantity" : 1
+        }, {
+          "id" : "0.7171400319638809",
+          "name" : "Whisky Chivas Regal Extra 13 anos 750ML",
+          "price" : 125.99,
+          "productId" : "-MoPkNldgQ1dVD2rS5U9",
+          "quantity" : 1
+        } ],
+        "total" : 1043.01
+      },
+      "-MoUp3QPW2juAH5a6sv8" : {
+        "date" : "2021-11-14T16:02:25.653848",
+        "products" : [ {
+          "id" : "0.2264296162051137",
+          "name" : "Whisky Jack Daniels Single Barrel 750ML",
+          "price" : 299.0,
+          "productId" : "-MoPk9B5DSKQhD3J6qQW",
+          "quantity" : 5
+        }, {
+          "id" : "0.6331051526070649",
+          "name" : "Whisky Jack Daniels Honey 1L",
+          "price" : 159.0,
+          "productId" : "-MoPjqYQ85Uo1Z7dGL8X",
+          "quantity" : 5
+        } ],
+        "total" : 2290.0
+      },
+      "-MoUtu2IC-hsithNN4Kl" : {
+        "date" : "2021-11-14T16:23:33.763418",
+        "products" : [ {
+          "id" : "0.9461426935514226",
+          "name" : "Whisky Old Parr 12 anos 1L",
+          "price" : 164.22,
+          "productId" : "-MoPjZmcnY926z7NSqb2",
+          "quantity" : 1
+        }, {
+          "id" : "0.6813194764797149",
+          "name" : "Whisky Jack Daniels Honey 1L",
+          "price" : 159.0,
+          "productId" : "-MoPjqYQ85Uo1Z7dGL8X",
+          "quantity" : 1
+        }, {
+          "id" : "0.7510259952335617",
+          "name" : "Whisky Buchanan's Deluxe aged 12 anos 1L",
+          "price" : 134.9,
+          "productId" : "-MoPkblmCtonvXGknW7n",
+          "quantity" : 1
+        } ],
+        "total" : 458.12
+      },
+      "-MofIy8-sOobC2mVfhyZ" : {
+        "date" : "2021-11-16T21:33:13.878467",
+        "products" : [ {
+          "id" : "0.29680789879612746",
+          "name" : "Whisky Jack Daniels Single Barrel 750ML",
+          "price" : 299.0,
+          "productId" : "-MoPk9B5DSKQhD3J6qQW",
+          "quantity" : 5
+        } ],
+        "total" : 1495.0
+      },
+      "-MoplsJaAS7f2nyoeuaW" : {
+        "date" : "2021-11-18T22:20:07.269552",
+        "products" : [ {
+          "id" : "0.29380305482176416",
+          "name" : "Whisky Buchanan's Deluxe aged 12 anos 1L",
+          "price" : 134.9,
+          "productId" : "-MoPkblmCtonvXGknW7n",
+          "quantity" : 1
+        }, {
+          "id" : "0.47478058618564833",
+          "name" : "Whisky Chivas Regal Extra 13 anos 750ML",
+          "price" : 125.99,
+          "productId" : "-MoPkNldgQ1dVD2rS5U9",
+          "quantity" : 1
+        }, {
+          "id" : "0.4063146315767838",
+          "name" : "Whisky Jack Daniels Honey 1L",
+          "price" : 159.0,
+          "productId" : "-MoPjqYQ85Uo1Z7dGL8X",
+          "quantity" : 1
+        }, {
+          "id" : "0.44335172011101687",
+          "name" : "Whisky Jack Daniels Single Barrel 750ML",
+          "price" : 299.0,
+          "productId" : "-MoPk9B5DSKQhD3J6qQW",
+          "quantity" : 1
+        } ],
+        "total" : 718.89
+      }
+    }
+  },
+  "products" : {
+    "-MoPhas8nkwHqAxhyNmQ" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/61+8jWEM9gL._AC_SX385_.jpg",
+      "name" : "Whisky Jack Daniels 1L",
+      "price" : 159.9
+    },
+    "-MoPjZmcnY926z7NSqb2" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/61Fzm+5ZeHL._AC_SL1000_.jpg",
+      "name" : "Whisky Old Parr 12 anos 1L",
+      "price" : 164.22
+    },
+    "-MoPjqYQ85Uo1Z7dGL8X" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/61X+2Y1co8L._AC_SL1200_.jpg",
+      "name" : "Whisky Jack Daniels Honey 1L",
+      "price" : 159.0
+    },
+    "-MoPk9B5DSKQhD3J6qQW" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/61K4yB2iPTL._AC_SL1058_.jpg",
+      "name" : "Whisky Jack Daniels Single Barrel 750ML",
+      "price" : 299.0
+    },
+    "-MoPkNldgQ1dVD2rS5U9" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/51rlgVx3LKL._AC_SL1000_.jpg",
+      "name" : "Whisky Chivas Regal Extra 13 anos 750ML",
+      "price" : 125.99
+    },
+    "-MoPkblmCtonvXGknW7n" : {
+      "description" : "",
+      "imageUrl" : "https://m.media-amazon.com/images/I/81hb3e1cBsL._AC_SL1500_.jpg",
+      "name" : "Whisky Buchanan's Deluxe aged 12 anos 1L",
+      "price" : 134.9
+    }
+  },
+  "userFavorites" : {
+    "aoFR0mRrUNZk8VgAye8CmtI5KR92" : {
+      "-MoPkNldgQ1dVD2rS5U9" : false
+    }
+  }
+}

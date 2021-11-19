@@ -1,0 +1,73 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_minha_loja/models/product.dart';
+import 'package:intl/intl.dart';
+
+class ProductDetailScreen extends StatelessWidget {
+  const ProductDetailScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    final Product product =
+        ModalRoute.of(context)!.settings.arguments as Product;
+
+    return Scaffold(
+      body: CustomScrollView(
+        slivers: [
+          SliverAppBar(
+            expandedHeight: 300.0,
+            pinned: true,
+            flexibleSpace: FlexibleSpaceBar(
+              title: Text(product.name),
+              background: Stack(
+                fit: StackFit.expand,
+                children: [
+                  Hero(
+                    tag: product.id,
+                    child: Image.network(
+                      product.imageUrl,
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                  const DecoratedBox(
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                          begin: Alignment(0, 0.8),
+                          end: Alignment(0, 0),
+                          colors: [
+                            Color.fromRGBO(0, 0, 0, 0.6),
+                            Color.fromRGBO(0, 0, 0, 0),
+                          ]),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          SliverList(
+            delegate: SliverChildListDelegate([
+              const SizedBox(height: 16.0),
+              Text(
+                NumberFormat.compactSimpleCurrency(locale: 'PT-BR')
+                    .format(product.price),
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  color: Colors.grey,
+                  fontSize: 24.0,
+                ),
+              ),
+              const SizedBox(height: 8.0),
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.symmetric(horizontal: 8.0),
+                child: Text(
+                  product.description,
+                  textAlign: TextAlign.center,
+                ),
+              ),
+            ]),
+          ),
+        ],
+      ),
+    );
+  }
+}
